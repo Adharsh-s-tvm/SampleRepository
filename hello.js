@@ -1,1 +1,7 @@
-let a = 10;
+let a = 100000;
+
+
+
+
+
+let s = "Justin"
